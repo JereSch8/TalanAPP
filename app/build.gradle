@@ -26,6 +26,7 @@ android {
             buildConfigField "String", 'SERVER_URL', '"http://192.168.100.7:3100/"'
         }
         release {
+            buildConfigField "String", 'SERVER_URL', '"http://192.168.100.7:3100/"'
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
