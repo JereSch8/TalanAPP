@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../layout/custom_preview.xml" value="0.3861111111111111" />
+        <entry key="app/src/main/res/drawable/background.xml" value="0.12222222222222222" />
+        <entry key="app/src/main/res/drawable/background_splash.xml" value="0.12222222222222222" />
+        <entry key="app/src/main/res/drawable/ic_background.xml" value="0.12222222222222222" />
+        <entry key="app/src/main/res/drawable/ic_folder_fav.xml" value="0.28055555555555556" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.28055555555555556" />
+        <entry key="app/src/main/res/drawable/ic_star.xml" value="0.28055555555555556" />
+        <entry key="app/src/main/res/drawable/ic_star_outline.xml" value="0.28055555555555556" />
+        <entry key="app/src/main/res/drawable/ic_talana_logo_white.xml" value="0.28055555555555556" />
+        <entry key="app/src/main/res/drawable/ic_visibility_off.xml" value="0.18888888888888888" />
+        <entry key="app/src/main/res/drawable/ic_wavetop.xml" value="0.18888888888888888" />
+        <entry key="app/src/main/res/drawable/talana_logo.xml" value="0.22777777777777777" />
+        <entry key="app/src/main/res/drawable/wave_background2.xml" value="0.32592592592592595" />
+        <entry key="app/src/main/res/drawable/wave_bottom.xml" value="0.18888888888888888" />
+        <entry key="app/src/main/res/drawable/wave_foreground.xml" value="0.3277777777777778" />
+        <entry key="app/src/main/res/drawable/wavebottom.xml" value="0.12222222222222222" />
+        <entry key="app/src/main/res/drawable/wavebottom_background.xml" value="0.3277777777777778" />
+        <entry key="app/src/main/res/drawable/wavebottom_foreground.xml" value="0.3277777777777778" />
+        <entry key="app/src/main/res/drawable/wavetop.xml" value="0.12222222222222222" />
+        <entry key="app/src/main/res/layout-w1240dp/activity_login.xml" value="0.21015625" />
+        <entry key="app/src/main/res/layout/activity_details.xml" value="0.46322778345250254" />
+        <entry key="app/src/main/res/layout/activity_favourite.xml" value="0.67" />
+        <entry key="app/src/main/res/layout/activity_feed.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_login2.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.4981481481481482" />
+        <entry key="app/src/main/res/layout/item_feed.xml" value="0.3675373134328358" />
+        <entry key="app/src/main/res/layout/item_post.xml" value="0.25" />
+        <entry key="app/src/main/res/menu/feed_menu.xml" value="0.5018518518518519" />
+        <entry key="app/src/main/res/xml/network_security_config.xml" value="0.17291666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
