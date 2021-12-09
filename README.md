@@ -16,7 +16,7 @@ Para utilizar la aplicación se debe cambiar ésta configuración o levantar un 
 	debug {
 	  //        Config for localhost / emulator in same PC 
 	  //        buildConfigField "String", 'SERVER_URL', 
-	 //        Config for LAN conection ATENTION: replace IP and PORT for dates of Server'"http://10.0.2.2:3100/"'
+	 //        Config for LAN conection ATENTION: replace IP and PORT for data of Server'"http://10.0.2.2:3100/"'
 		 buildConfigField "String", 'SERVER_URL', '"http://192.168.100.7:3100/"'
 	 }
 	 release {  
